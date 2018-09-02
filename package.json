@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-image",
+  "name": "@timdp/rollup-plugin-image",
   "version": "1.0.2",
   "description": "Import JPG, PNG, GIF and SVG images",
   "main": "dist/rollup-plugin-image.cjs.js",
